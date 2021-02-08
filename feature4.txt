@@ -2,4 +2,4 @@ feature4.txt
 pull request
 develop <- feature4
 
-rebase test3
+rebase test1
