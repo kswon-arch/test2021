@@ -2,4 +2,4 @@ feature4.txt
 pull request
 develop <- feature4
 
-feature4 - test2
+feature4 - test1
